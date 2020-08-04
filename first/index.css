@@ -1,3 +1,5 @@
-div {
-    
+.outer-box {
+    border:1px blue;
+    margin: 30px grey;
+    padding:50px white;
 }
