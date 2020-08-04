@@ -3,3 +3,7 @@
     margin: 30px grey;
     padding:50px white;
 }
+div {
+    box-sizing: content-box;
+    box-sizing: border-box
+}
