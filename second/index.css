@@ -11,4 +11,39 @@
 #purple-box {
     background: purple;
     height: 120px; 
+    width: 40px;
+    margin-top: 48px;
+    display: inline-block;
+}
+
+#green-box {
+    background-color: green;
+    width: 160px;
+    height: 176px;
+    display: inline-block;
+}
+
+.mid-container {
+    border: dotted black 5px;
+    height: 250px;
+    width: 90%
+    margin: auto;
+    margin-top: 50px;
+}
+
+.bottom-container {
+    border: solid black 1px;
+    height: 250px;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+#greetings {
+    font-size: 30px;
+    font-weight: bold;
+    color: navy;
+    height: 50px;
 }
