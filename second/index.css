@@ -23,12 +23,26 @@
     display: inline-block;
 }
 
+#blue-circle {
+    background-color: blue;
+    height: 176px;
+    width: 176px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
 .mid-container {
     border: dotted black 5px;
     height: 250px;
-    width: 90%
+    width: 90%;
     margin: auto;
     margin-top: 50px;
+}
+
+#cream-box {
+    background-color: yellow;
+    height: 120px;
+    width: 200px;
 }
 
 .bottom-container {
