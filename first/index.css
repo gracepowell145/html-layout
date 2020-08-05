@@ -1,12 +1,12 @@
-.header {
+#header {
     background-color: grey;
-    height: 20vh;
-    width: 30vvw;
+    height: 5px;
+    width: 20px;
 }
 
 .main-content {
     border: black 3px;
     background-color: white;
-    height:
-    
-}
+    height: 10px;
+    width: 10px
+    }
