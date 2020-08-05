@@ -1,0 +1,14 @@
+.top-container {
+    border: solid black 3px;
+    height: 200px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 12px 10px;
+    box-sizing: border-box;
+}
+
+#purple-box {
+    background: purple;
+    height: 120px; 
+}
