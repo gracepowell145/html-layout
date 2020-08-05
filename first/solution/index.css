@@ -1,3 +1,11 @@
+
+#upGrey {
+  background-color: #383838;
+  height: 20px;
+  width: 100px;
+}
+
+
 body {
   margin: 0;
   background-color: #D8D8D8;
@@ -24,3 +32,4 @@ body {
   width: 75%;
   height: 10vh;
 }
+
